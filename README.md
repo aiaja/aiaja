@@ -1,66 +1,103 @@
-<h1 align="left">Hi, Welcome! 👋</h1>
+<div align="center">
 
-###
+# Hi there, I'm Aisya Nur Syakbani! 👋
 
-<h3 align="left">I'm Aisya - a Frontend Developer</h3>
+<a href="https://github.com/aisyanrs">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Tech+Leader;Vice+President+%40+DNCC;Building+Community-First+Solutions;CS+Student+%40+UDINUS;Bridging+Code+and+Project+Management" alt="Typing SVG" />
+</a>
 
-###
+<p align="center">
+  A passionate <strong>Frontend Developer</strong> and <strong>Tech Leader</strong> with a "hustler" mindset. I bridge the gap between technical execution and project management, ensuring that teams build scalable, user-centric, and community-driven solutions.
+</p>
 
-<h2 align="left">Languages</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-</div>
-
-###
-
-<h2 align="left">Frameworks</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="60" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-</div>
-
-###
-
-<h2 align="left">Contact Me!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aisyanrs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/aisyanrs/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=aisyafirst@gmail.com&tf=cm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://portfolio-aisya.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-###
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiaja/aiaja/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiaja/aiaja/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aiaja/aiaja/output/pacman-contribution-graph.svg">
-</picture>
+</div>
 
-###
+---
+
+### 👩🏻‍💻 About Me
+
+- 🔭 **Currently working on:** Building modern web apps at **Bengkel Koding** (Intern) and leading community initiatives as the **Vice President of DNCC** (Dian Nuswantoro Computer Club).
+- 🌱 **Currently learning:** Advanced Next.js patterns, enterprise-level architecture, and technical product management.
+- 💬 **Ask me about:** Frontend development (React/Next.js!), balancing project management with coding, or running student tech communities.
+- ⚡ **Quick note:** I love bridging the gap between writing clean code and actually shipping products that people use.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  
+  **Languages** <br>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
+  <br><br>
+
+  **Frameworks & Libraries** <br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+
+  <br><br>
+
+  **Tools & Infrastructure** <br>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+* **[Nexa Diesel Track](#) — Lead Frontend Web Developer**
+    *An enterprise-level fleet management system.* Architected the frontend to ensure robust data handling and seamless user interactions for private enterprise use.
+* **[ECOPOS](#) — Frontend Developer**
+    *A modern, high-performance POS (Point of Sale) system.* Built from the ground up utilizing Next.js, Tailwind CSS, and Shadcn UI to deliver a sleek, responsive, and intuitive merchant experience.
+* **[DINACOM 2025](#) — Project Manager & Frontend Lead**
+    *A large-scale event registration platform.* Successfully led a cross-functional team to develop and deploy a platform serving hundreds of participants, balancing technical delivery with strict project timelines.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aiaja&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiaja&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiaja&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 👾 Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiaja/aiaja/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiaja/aiaja/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid pacman/snake animation" src="https://raw.githubusercontent.com/aiaja/aiaja/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
