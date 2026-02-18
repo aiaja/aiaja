@@ -79,25 +79,25 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aiaja&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
-</div>
+</div> -->
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiaja&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiaja&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiaja&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" /> -->
 </div>
 
 ---
 
 ### 👾 Contributions
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiaja/aiaja/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiaja/aiaja/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid pacman/snake animation" src="https://raw.githubusercontent.com/aiaja/aiaja/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
