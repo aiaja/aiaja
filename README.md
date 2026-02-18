@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aisya Nur Syakbani! 👋
 
-<a href="https://github.com/aisyanrs">
+<a href="https://github.com/aiaja">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Tech+Leader;Vice+President+%40+DNCC;Building+Community-First+Solutions;CS+Student+%40+UDINUS;Bridging+Code+and+Project+Management" alt="Typing SVG" />
 </a>
 
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aisyanrs/">
+  <a href="https://www.linkedin.com/in/aiaja/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-aisya.vercel.app">
