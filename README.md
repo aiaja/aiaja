@@ -91,6 +91,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aiaja/aiaja/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ### 👾 Contributions
 
